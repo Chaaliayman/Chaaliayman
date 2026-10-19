@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**Chaaliayman/Chaaliayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm AYMAN</h1>
+ 
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  <img width="498" height="253" alt="image" src="https://github.com/user-attachments/assets/5e8a2535-0774-4581-abe2-06a8d987ccb7" />
+
