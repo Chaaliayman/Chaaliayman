@@ -10,3 +10,4 @@
 
 - 🎯 **Current Focus:** Data Structures, Algorithms & System Programming 
  
+  **🛠️ Tech Stack**
